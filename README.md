@@ -16,7 +16,7 @@ The module has no dependencies, you can use it as a standalone script (introduce
 
 ## Install
 
-Quickest way to get up and running woulr be to use [jsDelivr CDN](http://www.jsdelivr.com/projects/simplestorage):
+Quickest way to get up and running woulr be to use [jsDelivr CDN](http://www.jsdelivr.com/projects/simplestorage): [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/simplestorage.js/badge?style=rounded)](https://www.jsdelivr.com/package/npm/simplestorage.js)
 
 ```html
 <script src="https://cdn.jsdelivr.net/simplestorage/0.2.1/simpleStorage.min.js"></script>
